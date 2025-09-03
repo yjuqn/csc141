@@ -1,0 +1,68 @@
+2-3 
+
+name = "Juan"
+print("Hello Juan , would you like to learn Python today?")
+
+2-4
+
+print(name.lower())
+print(name.upper())
+print(name.title())
+
+2-5
+
+print('"Be yourself; everyone else is already taken." - Oscar Wilde')
+
+2-6
+
+famous_person = "oscar Wilde"
+message = f'{famous_person} once said, "Be yourself; everyone else is already taken.”'
+print(message)
+
+2-7
+
+name_with_whitespace = "Juan"
+print("Original with whitespace:")
+print(repr(name_with_whitespace))
+
+print("\nUsing lstrip():")
+print(repr(name_with_whitespace.lstrip()))
+
+print("\nUsing rstrip():")
+print(repr(name_with_whitespace.rstrip()))
+
+print("\nUsing strip():")
+print(repr(name_with_whitespace.strip()))
+
+2-8
+
+filename = "csc"
+print(filename.removesuffix('.txt'))
+
+2-9
+
+print(7 + 13)     # Addition
+print(15 - 2)    # Subtraction
+print(6 * 6)     # Multiplication
+print(2000 / 10)    # Division
+
+2-10
+
+favorite_number = 7
+message = f"Juans favorite number is {favorite_number}."
+print(message)
+
+2-11
+
+
+# Date: 2025-09-03
+name = "Juan"
+print(f"Hello juan, would you liek to learn Python today?")
+# This program stores a favorite number in a variable and prints a message using it.
+favorite_number = 7
+message = f"Juan favorite number is 7."
+print(message)
+
+2-12
+
+import this
