@@ -1,0 +1,2 @@
+1-2 when there is a typo,it will state there is a error  and tell you which line of code.
+1-3 by the end of this semester my goal is to get a better understanding of coding, hopefully having a new skill i can apply in life.
